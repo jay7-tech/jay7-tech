@@ -161,19 +161,15 @@ Autonomous Retail Tracking with Embedded Vision
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jay7-tech&theme=tokyonight&hide_border=true" />
 
-</div>
+</div> -->
 
 ---
 
 # 📈 Contribution Graph
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/jay7-tech/jay7-tech/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
