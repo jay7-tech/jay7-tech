@@ -21,8 +21,8 @@
 
 I build **production-ready AI systems** that run on edge devices. My work bridges the gap between cutting-edge research and real-world deployment — from multimodal AI agents to legged robot controllers.
 
-🎯 **Recent Achievement:** 2nd place at National Robotics Expo (150+ teams)  
-⚡ **Specialization:** Edge AI optimization (2.9× inference speedup on ARM)  
+🎯 **Recent Achievement:** 2nd place at Project Expo  
+⚡ **Specialization:** Edge AI optimization(2.9× inference speedup on ARM), Intelligent systems, ML   
 🤖 **Focus Areas:** Embodied AI, Computer Vision, LLM Systems, Robotics Control
 
 <br clear="right"/>
@@ -44,12 +44,14 @@ class Jayadeep:
             "Research internships in AI/ML/Robotics",
             "Collaborations on multimodal systems",
             "Mentorship in embodied AI"
+            "Open Source Collaborations"
         ]
 
+
         self.tech_stack = {
-            "AI/ML": ["PyTorch", "TensorFlow", "Scikit-learn"],
+            "AI/ML": ["PyTorch", "TensorFlow", "Scikit-learn","Deep Learning","(CNNs, RNNs, Transformers)"],
             "Computer Vision": ["YOLOv8", "OpenCV", "MediaPipe"],
-            "LLMs": ["Phi-2", "Llama-3", "RAG", "FAISS"],
+            "LLMs": ["LLMs (Fine-tuning, RAG)", "FAISS"],
             "Robotics": ["ROS", "PyBullet", "Inverse Kinematics", "FSM Controllers"],
             "Edge Deployment": ["ONNX", "TensorRT", "Quantization", "ARM NEON"]
         }
