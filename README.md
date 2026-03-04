@@ -19,7 +19,7 @@
 
 **Robotics & AI Engineer** | **B.E. @ BIT Bangalore (8.8 CGPA)**
 
-I build **production-ready AI systems** that run on edge devices. My work bridges the gap between cutting-edge research and real-world deployment — from multimodal AI agents to legged robot controllers.
+I build **production-ready AI systems** that run on edge devices. My work bridges the gap between cutting-edge research and real-world deployment —from multimodal AI agents to Actuating robot controllers.
 
 🎯 **Recent Achievement:** 2nd place at Project Expo  
 ⚡ **Specialization:** Edge AI optimization(2.9× inference speedup on ARM), Intelligent systems, ML, Research   
