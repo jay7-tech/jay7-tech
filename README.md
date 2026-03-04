@@ -167,6 +167,10 @@ Autonomous Retail Tracking with Embedded Vision
 
 # 📈 Contribution Graph
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/jay7-tech/jay7-tech/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 [![Jayadeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jay7-tech&theme=tokyo-night&hide_border=true)](https://github.com/jay7-tech)
