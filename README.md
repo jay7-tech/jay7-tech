@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7B5&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+ML+Engineer;Edge+AI+%7C+Robotics+%7C+LLM+Systems;Building+Intelligent+Systems+for+the+Physical+World" alt="Typing SVG" />
 
+
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jayadeepgowda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay7788)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepgowda24@gmail.com)
@@ -19,7 +21,7 @@
 
 **Robotics & AI Engineer** | **B.E. @ BIT Bangalore (8.8 CGPA)**
 
-I build **production-ready AI systems** that run on edge devices. My work bridges the gap between cutting-edge research and real-world deployment —from multimodal AI agents to Actuating robot controllers.
+I build **production-ready AI systems** that run on edge devices. My work bridges the gap between cutting-edge research and real-world deployment — from multimodal AI agents to Actuating robot controllers.
 
 🎯 **Recent Achievement:** 2nd place at Project Expo  
 ⚡ **Specialization:** Edge AI optimization(2.9× inference speedup on ARM), Intelligent systems, ML, Research   
@@ -71,12 +73,12 @@ me.say_hi()
 
 ### 🤖 [MEMO (Neural-OS)](https://github.com/jay7-tech/memo)
 
-**Production Multimodal AI Agent for Edge Devices**
+**Production Multimodal AI Agent for Edge Devices 🎯 **
 
-🎯 2.9× inference speedup (160ms → 55ms)  
-🧠 Integrates YOLOv8, Whisper ASR, Phi-2 LLM, RAG  
-⚡ <50ms end-to-end latency on ARM  
-📊 98.4% uptime over 72-hour stress testing  
+2.9× inference speedup (160ms → 55ms)  
+Integrates YOLOv8, Whisper ASR, Phi-2 LLM, RAG  
+<50ms end-to-end latency on ARM  
+98.4% uptime over 72-hour stress testing  
 
 <details>
 <summary><b>🔍 Technical Deep Dive</b></summary>
@@ -115,7 +117,7 @@ Fully local-first AI system
 
 Autonomous Retail Tracking with Embedded Vision
 
-🏆 2nd place — GlitchVerse National Expo (150+ teams)  
+🏆 2nd place — GlitchVerse Project Expo   
 📹 20 FPS real-time inference at 92% mAP  
 🔋 8-hour battery operation  
 📱 Full-stack integration (mobile + cloud)
@@ -183,7 +185,7 @@ Autonomous Retail Tracking with Embedded Vision
 
 I am actively looking for:
 
-🔬 AI / ML Research Internships  
+🔬 AI / ML Internships  
 🤖 Robotics Research Labs  
 ⚡ Edge AI Engineering Opportunities  
 
@@ -197,10 +199,9 @@ Interested in working together?
 
 # ⚡ Fun Facts
 
-🏆 2nd place at National Robotics Expo competing against **150+ teams**  
-⚡ Built AI running **6 pipelines on a $50 Raspberry Pi**  
-🎧 Debug faster when listening to **lo-fi hip hop**  
-🤖 Built **quadruped gait controllers** that walked on real hardware  
+🏆 2nd place at Project Expo  
+⚡ Built AI running **6 pipelines on a $50 Raspberry Pi**   
+🤖 Contributed to **quadruped gait controllers** that worked on real hardware  
 ⚡ Achieved **2.9× inference speedup through optimization**
 
 ---
