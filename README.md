@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7B5&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+ML+Engineer;Edge+AI+%7C+Robotics+%7C+LLM+Systems;Building+Intelligent+Systems+for+the+Physical+World " alt="Typing SVG"/>
 
----
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jayadeepgowda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay7788)
