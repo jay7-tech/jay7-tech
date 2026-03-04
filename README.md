@@ -2,7 +2,7 @@
 
 # Hey, I' Jayadeep Gowda
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7B5&center=true&vCenter=true&multiline=true&width=700&height=150&lines=AI+%26+ML+Engineer;Edge+AI+%7C+Robotics+%7C+LLM+Systems;Building+Intelligent+Systems+for+the+Physical+World" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7B5&center=true&vCenter=true&multiline=true&width=700&height=140&lines=AI+%26+ML+Engineer;Edge+AI+%7C+Robotics+%7C+LLM+Systems;Building+Intelligent+Systems+for+the+Physical+World" alt="Typing SVG"/>
 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jayadeepgowda.vercel.app)
