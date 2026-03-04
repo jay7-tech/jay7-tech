@@ -104,10 +104,10 @@ Optimizations
 
 LLM Optimization System with Temporal Pattern Analysis
 
-- 40–60% reduction in unproductive queries  
-- Novel n-gram sequence mining algorithm  
-- Sub-200ms FAISS vector search  
-- Fully local-first AI system  
+40–60% reduction in unproductive queries  
+Novel n-gram sequence mining algorithm  
+Sub-200ms FAISS vector search  
+Fully local-first AI system  
 
 ---
 
