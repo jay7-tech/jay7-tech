@@ -12,9 +12,11 @@
 
 </div>
 
+
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 ### 🚀 Quick Intro
 
@@ -27,6 +29,7 @@ I build **production-ready AI systems** that run on edge devices. My work bridge
 🤖 **Focus Areas:** Embodied AI, Computer Vision, LLM Systems, Robotics Control
 
 <br clear="right"/>
+
 
 ---
 
@@ -62,153 +65,3 @@ class Jayadeep:
 
 me = Jayadeep()
 me.say_hi()
-```
-
----
-
-# 🏆 Featured Projects
-
-<div align="center">
-
-### 🤖 [MEMO (Neural-OS)](https://github.com/jay7-tech/memo)
-
-**Production Multimodal AI Agent for Edge Devices 🎯 **
-
-2.9× inference speedup (160ms → 55ms)  
-Integrates YOLOv8, Whisper ASR, Phi-2 LLM, RAG  
-<50ms end-to-end latency on ARM  
-98.4% uptime over 72-hour stress testing  
-
-<details>
-<summary><b>🔍 Technical Deep Dive</b></summary>
-
-Architecture
-
-- Real-time computer vision (YOLOv8 INT8)
-- Speech recognition (Whisper Tiny)
-- LLM reasoning (4-bit quantized Phi-2)
-- Persistent memory (SQLite + FAISS RAG)
-- Asynchronous pipeline (ZeroMQ IPC)
-
-Optimizations
-
-- INT8 quantization via OpenVINO
-- ARM NEON instruction vectorization
-- Memory footprint: 3.2–3.8GB peak
-- Parallel execution of 6 concurrent AI tasks
-
-</details>
-
----
-
-### 🧠 [Cognis](https://github.com/jay7-tech/cognis)
-
-LLM Optimization System with Temporal Pattern Analysis
-
-40–60% reduction in unproductive queries  
-Novel n-gram sequence mining algorithm  
-Sub-200ms FAISS vector search  
-Fully local-first AI system  
-
----
-
-### 🛒 [YOLOmart](https://github.com/jay7-tech/Yolo_mart-main)
-
-Autonomous Retail Tracking with Embedded Vision
-
-🏆 2nd place — GlitchVerse Project Expo   
-📹 20 FPS real-time inference at 92% mAP  
-🔋 8-hour battery operation  
-📱 Full-stack integration (mobile + cloud)
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Robotics & Edge
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay7-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay7-tech&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jay7-tech&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/jay7-tech/jay7-tech/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-
-[![Jayadeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jay7-tech&theme=tokyo-night&hide_border=true)](https://github.com/jay7-tech)
-
-</div>
-
----
-
-# 🤝 Let's Collaborate
-
-I am actively looking for:
-
-🔬 AI / ML Internships  
-🤖 Robotics Research Labs  
-⚡ Edge AI Engineering Opportunities  
-
-Interested in working together?
-
-<a href="mailto:jayadeepgowda24@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-Let's_Build_Together-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
----
-
-# ⚡ Fun Facts
-
-🏆 2nd place at Project Expo  
-⚡ Built AI running **6 pipelines on a $50 Raspberry Pi**   
-🤖 Contributed to **quadruped gait controllers** that worked on real hardware  
-⚡ Achieved **2.9× inference speedup through optimization**
-
----
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
