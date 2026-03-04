@@ -43,7 +43,7 @@ class Jayadeep:
         self.looking_for = [
             "Research internships in AI/ML/Robotics",
             "Collaborations on multimodal systems",
-            "Mentorship in embodied AI"
+            "Mentorship in embodied AI",
             "Open Source Collaborations"
         ]
 
@@ -159,7 +159,7 @@ Autonomous Retail Tracking with Embedded Vision
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=jay7-tech&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=jay7-tech&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -169,7 +169,7 @@ Autonomous Retail Tracking with Embedded Vision
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/jay7-tech/jay7-tech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jay7-tech/jay7-tech/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
