@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jayadeep Gowda
+# Hey, I' Jayadeep Gowda
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7B5&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+ML+Engineer;Edge+AI+%7C+Robotics+%7C+LLM+Systems;Building+Intelligent+Systems+for+the+Physical+World" alt="Typing SVG" />
 
@@ -22,7 +22,7 @@
 I build **production-ready AI systems** that run on edge devices. My work bridges the gap between cutting-edge research and real-world deployment — from multimodal AI agents to legged robot controllers.
 
 🎯 **Recent Achievement:** 2nd place at Project Expo  
-⚡ **Specialization:** Edge AI optimization(2.9× inference speedup on ARM), Intelligent systems, ML   
+⚡ **Specialization:** Edge AI optimization(2.9× inference speedup on ARM), Intelligent systems, ML, Research   
 🤖 **Focus Areas:** Embodied AI, Computer Vision, LLM Systems, Robotics Control
 
 <br clear="right"/>
