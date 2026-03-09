@@ -22,9 +22,9 @@
 
 **Robotics & AI Engineer** @ BIT Bangalore (CGPA: 8.8/10)
 
-I don't just train models—I **deploy them on $50 hardware** and make **robots walk with them**.
+I don't just train models—I **deploy them on $50 hardware and test brutally**.
 
-🏆 **2nd Place** at National Robotics Expo (150+ teams)  
+🏆 **2nd Place** at Project Expo  
 ⚡ **2.9× Inference Speedup** on ARM through quantization  
 🤖 **98.4% Uptime** in production multimodal AI systems  
 🦾 **Quadruped Controller** validated in sim → deployed on real hardware
@@ -158,7 +158,7 @@ Most students demo.
 ### ⚡ **Edge Optimized**
 
 Most use cloud GPUs.  
-**I use $50 devices.**
+**I used $50 devices.**
 
 ✅ 2.9× speedup  
 ✅ INT8 quantization  
@@ -188,11 +188,12 @@ Most simulate.
 
 | Achievement | Impact | Date |
 |------------|--------|------|
-| 🥈 **GlitchVerse 2k25 Runner-Up** | Beat 150+ teams nationally | Feb 2025 |
+| 🥈 **GlitchVerse 2k25 Runner-Up** |  | Dec 2025 |
 | 🎖️ **Anveshana National Finalist** | Top teams across India | Feb 2025 |
 | ⚡ **2.9× Optimization** | Real hardware deployment | Jan 2026 |
 | 🤖 **Production AI System** | 98.4% uptime validated | Jan 2026 |
 | 🎓 **Top 10% Academic** | 8.8/10 CGPA in Robotics & AI | Ongoing |
+| # **Research and Development Intern | @ Sirena Robotics | Jan 2026
 
 ---
 
@@ -212,7 +213,7 @@ Most simulate.
 
 ## 🤝 LET'S COLLABORATE
 
-I'm seeking **research internships** in AI/ML/Robotics (IISc, IIIT, Top Labs)
+I'm seeking **research/Ai-ML/Data internships** 
 
 **Interested in:**
 - 🦾 Embodied AI & vision-language-action models
@@ -220,15 +221,6 @@ I'm seeking **research internships** in AI/ML/Robotics (IISc, IIIT, Top Labs)
 - ⚡ Edge AI optimization & deployment
 - 🧠 Multimodal systems for human-robot interaction
 
-### 💭 Dev Philosophy
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it%20—%20on%20a%20Raspberry%20Pi,%20at%2098.4%25%20uptime&author=Jayadeep%20Gowda" />
-
-<br/><br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer" width="100%" />
 
 <div align="center">
 
@@ -243,7 +235,5 @@ I'm seeking **research internships** in AI/ML/Robotics (IISc, IIIT, Top Labs)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-
-**"Most people optimize code. I optimize robots to walk."**
 
 </div>
