@@ -220,6 +220,16 @@ I'm seeking **research internships** in AI/ML/Robotics (IISc, IIIT, Top Labs)
 - ⚡ Edge AI optimization & deployment
 - 🧠 Multimodal systems for human-robot interaction
 
+### 💭 Dev Philosophy
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it%20—%20on%20a%20Raspberry%20Pi,%20at%2098.4%25%20uptime&author=Jayadeep%20Gowda" />
+
+<br/><br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer" width="100%" />
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepgowda24@gmail.com)
