@@ -216,10 +216,10 @@ Most simulate.
 I'm seeking **research/Ai-ML/Data internships** 
 
 **Interested in:**
-- 🦾 Embodied AI & vision-language-action models
-- 🤖 Legged robotics & safe control theory
-- ⚡ Edge AI optimization & deployment
-- 🧠 Multimodal systems for human-robot interaction
+- Embodied AI & vision-language-action models
+- Legged robotics & safe control theory
+- Edge AI optimization & deployment
+- Multimodal systems for human-robot interaction
 
 
 <div align="center">
