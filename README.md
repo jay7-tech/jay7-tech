@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Jayadeep%20Gowda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-### 🤖 Building AI That Moves in the Real World
+### 🤖 Robotics | AI | DL | CV 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2.9x+Faster+Inference+on+Edge+Hardware;Won+2nd+Place+%2F+150%2B+Teams+Nationally;98.4%25+Uptime+in+Production+AI+Systems;From+Simulation+to+Real+Walking+Robots" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2.9x+Faster+Inference+on+Edge+Hardware;Won+2nd+Place+Glitch+Verse;98.4%25+Uptime+in+Production+AI+Systems;From+Simulation+to+Real+Walking+Robots" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 WHO AM I
+## WHO AM I
 
 **Robotics & AI Engineer** @ BIT Bangalore (CGPA: 8.8/10)
 
@@ -85,16 +85,16 @@ I don't just train models—I **deploy them on $50 hardware and test brutally**.
 <td width="50%">
 
 ### 🦾 Robotics @ Sirena AI
-
-**Quadruped & humanoid control systems**
+**Research & Development Intern**
+**Quadruped & humanoid control systems, AI Pipelines**
 ```
-🤖 IK solver (Jacobian-based)
+🤖 IK (Jacobian-based)
 🎮 12-state FSM controller
 🏃 0.5 m/s stable locomotion
 ✅ Sim-to-real validated
 ```
 
-**Stack:** PyBullet • C++ • ROS • Real hardware
+**Stack:** PyBullet • C++ • ROS • Real hardware  • Simulations  • Computer Vision 
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ I don't just train models—I **deploy them on $50 hardware and test brutally**.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Specializations:** Edge AI Optimization • Robotics Control • LLM Systems • Computer Vision
+**Specializations:** Edge AI Optimization • Robotics Control • LLM Systems • Computer Vision   • Machine Learning• Deep Learning 
 
 </div>
 
@@ -144,33 +144,23 @@ I don't just train models—I **deploy them on $50 hardware and test brutally**.
 
 ### 🏭 **Production First**
 
-Most students demo.  
+Most demo.  
 **I ship.**
 
 ✅ 98.4% uptime  
 ✅ 72-hour stress tests  
 ✅ Real-time pipelines  
+✅ Software development
+✅ Complexity reduction
 ✅ Hardware validated
 
 </td>
-<td width="33%" align="center">
 
-### ⚡ **Edge Optimized**
-
-Most use cloud GPUs.  
-**I used $50 devices.**
-
-✅ 2.9× speedup  
-✅ INT8 quantization  
-✅ 3.5MB models  
-✅ ARM NEON optimized
-
-</td>
 <td width="33%" align="center">
 
 ### 🤖 **Hardware Deployed**
 
-Most simulate.  
+Not just simulate.  
 **I deploy.**
 
 ✅ Quadruped robots  
@@ -193,7 +183,7 @@ Most simulate.
 | ⚡ **2.9× Optimization** | Real hardware deployment | Jan 2026 |
 | 🤖 **Production AI System** | 98.4% uptime validated | Jan 2026 |
 | 🎓 **Top 10% Academic** | 8.8/10 CGPA in Robotics & AI | Ongoing |
-| # **Research and Development Intern | @ Sirena Robotics | Jan 2026
+| # **Research and Development Intern** | @ Sirena Robotics | Jan 2026
 
 ---
 
