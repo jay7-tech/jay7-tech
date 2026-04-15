@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Jayadeep%20Gowda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-### 🤖 Robotics | AI | DL | CV 
+### Robotics | AI/ML | DL | CV 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2.9x+Faster+Inference+on+Edge+Hardware;Won+2nd+Place+Glitch+Verse;98.4%25+Uptime+in+Production+AI+Systems;From+Simulation+to+Real+Walking+Robots" alt="Typing SVG" />
 
