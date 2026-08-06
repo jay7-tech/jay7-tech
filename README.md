@@ -3,9 +3,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineer+%40+BIT+Bangalore;IISc+Research+Intern+%E2%80%94+Dept.+of+CDS;Edge+AI+%7C+Deployed+on+%2450+Hardware%2C+Not+Cloud;2.7B+LLM+Running+on+a+Raspberry+Pi" />
-<div align="center">
-
-
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=720&lines=building+real+AI+systems+—+not+demos%2C+not+slides.;robotics+%7C+machine+learning+%7C+deep+learning+%7C+LLMs.;research+intern+%40+IISc+Bangalore.;edge+inference+on+bare+metal+since+day+one." />
 
 </div>
@@ -41,9 +39,9 @@ Research Intern  ·  IISc Bangalore  ·  Dept. of Computational & Data Sciences
 
 <div align="center">
 
-> *I work across the full AI stack — from training deep learning models and building LLM pipelines*
-> *to deploying computer vision systems and engineering robots that walk on real hardware.*
-> *Whether it's ML research, edge inference, or multimodal AI — I ship things that run.*
+<i>"I work across the full AI stack — from training deep learning models and building LLM pipelines<br/>
+to deploying computer vision systems and engineering robots that walk on real hardware.<br/>
+Whether it's ML research, edge inference, or multimodal AI — I ship things that run."</i>
 
 </div>
 
@@ -70,20 +68,20 @@ Research Intern  ·  IISc Bangalore  ·  Dept. of Computational & Data Sciences
 
 <img src="https://img.shields.io/badge/IISc%20Bangalore-Research%20Intern-4A90D9?style=flat-square&labelColor=0d1117"/>
 &nbsp;<img src="https://img.shields.io/badge/Mar–Jun%202026-555555?style=flat-square&labelColor=0d1117"/>
+<br/><br/>
+<b>Dept. of Computational & Data Sciences</b><br/>
 
-**Dept. of Computational & Data Sciences**
-
-Benchmarked **17 ML/DL models** — CNN, BiLSTM, CNN-LSTM, 14 classical — on MXene piezoresistive wristband sensor data. Engineered 21 time/frequency-domain features. 5-fold stratified cross-validation. Collaborated with **AGH University, Poland**.
+Benchmarked <b>17 ML/DL models</b> — CNN, BiLSTM, CNN-LSTM, 14 classical — on MXene piezoresistive wristband sensor data. Engineered 21 time/frequency-domain features. 5-fold stratified cross-validation. Collaborated with <b>AGH University, Poland</b>.
 
 </td>
 <td width="50%" valign="top" style="padding:0 0 16px 8px">
 
 <img src="https://img.shields.io/badge/Sirena%20AI%20Systems-R%26D%20Intern-3fb950?style=flat-square&labelColor=0d1117"/>
 &nbsp;<img src="https://img.shields.io/badge/Jan–Feb%202026-555555?style=flat-square&labelColor=0d1117"/>
+<br/><br/>
+<b>Robotics & Edge AI</b><br/>
 
-**Robotics & Edge AI**
-
-Full lifecycle from physics simulation to deployed hardware. Built custom **IK solvers** and **12-state FSM** gait controllers for Quadruped, Humanoid, and Hexapod robots. Integrated YOLOv8 + Whisper + Phi-2 on ARM with **sub-50ms ZeroMQ** inter-process latency.
+Full lifecycle from physics simulation to deployed hardware. Built custom <b>IK solvers</b> and <b>12-state FSM</b> gait controllers for Quadruped, Humanoid, and Hexapod robots. Integrated YOLOv8 + Whisper + Phi-2 on ARM with <b>sub-50ms ZeroMQ</b> inter-process latency.
 
 </td>
 </tr>
@@ -92,8 +90,8 @@ Full lifecycle from physics simulation to deployed hardware. Built custom **IK s
 
 <img src="https://img.shields.io/badge/Frillory%20Design%20House-AI%20Automation%20Eng-d2a8ff?style=flat-square&labelColor=0d1117"/>
 &nbsp;<img src="https://img.shields.io/badge/Jun–Aug%202025-555555?style=flat-square&labelColor=0d1117"/>
-
-**AI Automation Engineer**
+<br/><br/>
+<b>AI Automation Engineer</b><br/>
 
 Designed LLM prompt orchestration and agentic pipelines. Automated 50+ enterprise assets. Reduced manual overhead by 25%.
 
@@ -102,10 +100,10 @@ Designed LLM prompt orchestration and agentic pipelines. Automated 50+ enterpris
 
 <img src="https://img.shields.io/badge/ROBO%20CELL%20·%20BIT-Joint%20Secretary-ffa657?style=flat-square&labelColor=0d1117"/>
 &nbsp;<img src="https://img.shields.io/badge/Ongoing-555555?style=flat-square&labelColor=0d1117"/>
+<br/><br/>
+<b>Club Leadership</b><br/>
 
-**Club Leadership**
-
-Core organizer — **Ideathon 2025** with 600+ participants. Leading robotics R&D, coordinating cross-functional teams, and driving technical initiatives within the club.
+Core organizer — <b>Ideathon 2025</b> with 600+ participants. Leading robotics R&D, coordinating cross-functional teams, and driving technical initiatives within the club.
 
 </td>
 </tr>
