@@ -2,165 +2,16 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  INPUT LAYER          HIDDEN LAYERS              OUTPUT LAYER            ║
-║                                                                          ║
-║  [Sensor Data]──►[Signal Processing]──►[Feature Extraction]──►[Deploy]  ║
-║  [Video Feed] ──►[YOLOv8 / FaceNet] ──►[Inference Engine]  ──►[Robot]   ║
-║  [Audio]      ──►[Whisper ASR]      ──►[LLM / RAG / FAISS] ──►[Action]  ║
-║  [Physics Sim]──►[IK Solver / FSM]  ──►[Gait Controller]   ──►[Walk]    ║
-║                                                                          ║
-║  LATENCY: 55ms │ UPTIME: 98.4% │ PARAMS: 2.7B @ 4-bit │ HW: ARM/RPi    ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineer+%40+BIT+Bangalore;IISc+Research+Intern+%E2%80%94+Dept.+of+CDS;Edge+AI+%7C+Deployed+on+%2450+Hardware%2C+Not+Cloud;2.7B+LLM+Running+on+a+Raspberry+Pi" />
 
-**`Robotics · Edge AI · LLM Systems · Computer Vision`**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jayadeepgowda.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jayadeepgowda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay7788)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepgowda24@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepgowda24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jay7-tech)
 
-</div>
-
----
-
-## SYSTEM IDENTITY
-
-```python
-class JayadeepGowda:
-    affiliation  = "IISc Bangalore (Research Intern, CDS Dept.) · BIT Bangalore (8.88/10 CGPA)"
-    domain       = ["Edge AI Deployment", "Robotics Control", "LLM Systems", "Computer Vision"]
-    constraint   = "Production-grade only — tested on $50 hardware, not cloud clusters"
-    seeking      = "Research · AI/ML · Robotics Internships"
-
-    def philosophy(self):
-        return "Compress → Quantize → Deploy → Validate → Repeat"
-```
-
----
-
-## EXPERIENCE PIPELINE
-
-```
-IISc Bangalore ──────────────────────────────────────────── Mar–Jun 2026
-│  Research Intern · Dept. of Computational & Data Sciences
-│  ├─ End-to-end ML pipelines on MXene piezoresistive wristband sensor data
-│  ├─ Benchmarked 17 models (14 classical ML + CNN + BiLSTM + CNN-LSTM)
-│  │   via 5-fold stratified cross-validation · 21 time/freq-domain features
-│  └─ Collaborated with PostDocs, PhDs · AGH University Poland (international)
-
-Sirena AI Systems ───────────────────────────────────────── Jan–Feb 2026
-│  R&D Intern · Automation & Edge AI
-│  ├─ Full-lifecycle: physics sim → multi-DOF embedded hardware deployment
-│  ├─ Humanoid · Quadruped · Hexapod — custom IK solvers + 12-state FSM
-│  └─ YOLOv8 + Whisper + Phi-2 on ARM · ZeroMQ pub-sub · <50ms latency
-
-Frillory Design House ───────────────────────────────────── Jun–Aug 2025
-│  AI Automation Engineer
-│  └─ LLM prompt orchestration · agentic pipelines · 50+ assets · −25% overhead
-```
-
----
-
-## DEPLOYED SYSTEMS
-
-### [MEMO — Neural-OS](https://github.com/jay7-tech/memo)
-> Multimodal autonomous desktop robot agent running entirely on-device
-
-```
-Architecture:
-  RPi 5 ──► Vision   [YOLOv8 + FaceNet]  ──┐
-        ──► Speech   [Whisper ASR]          ├──► Orchestrator ──► Motor Control
-        ──► Language [Phi-2 · 4-bit · RAG]──┘         │
-                                                  Persistent Memory
-                                                  (FAISS + ChromaDB)
-
-  Throughput:  10–14 tokens/sec on-device
-  E2E Latency: 600ms
-  Quantization: 2.7B params → 4-bit (GGUF)
-  Recognition: 3rd Place · Best Poster Presentation
-```
-
----
-
-### [Cognis](https://github.com/jay7-tech/cognis)
-> LLM query optimization via n-gram pattern mining — 100% local, zero cloud
-
-```
-Pipeline:
-  Query ──► n-gram Pattern Miner ──► Cache Lookup ──► [HIT]  sub-200ms
-                                                  └──► [MISS] Llama-3 + FAISS
-
-  Query reduction: 40–60%       Stack: Llama-3 · FAISS · FastAPI
-  Retrieval:       <200ms       Mode:  Fully air-gapped
-```
-
----
-
-### [RILA — Searchable Video Memory](https://github.com/jay7-tech/rila)
-> AI agent that converts YouTube/Instagram reels into structured, queryable knowledge
-
-```
-Ingest:   Video URL ──► Caption Extraction + Whisper ASR fallback
-Extract:  Llama 3 + Pydantic ──► Structured entities (location, topic, timestamp)
-Index:    PostgreSQL/PostGIS (geospatial) + ChromaDB (semantic vectors)
-Query:    Telegram bot interface ──► hybrid geo + semantic retrieval
-```
-
----
-
-### [YOLOmart](https://github.com/jay7-tech/Yolo_mart-main)
-> Autonomous vision-guided shopping cart · 2nd of 150+ teams nationally
-
-```
-ESP32 ──► YOLOv8 @ 20 FPS · 92% mAP ──► Firebase ──► React Native
-         8-hour battery · real-time object detection + full-stack deployment
-```
-
----
-
-## STACK
-
-```
-Language    │  Python · C++ · SQL
-ML / DL     │  PyTorch · TensorFlow · Scikit-learn · Transformers
-            │  CNN · BiLSTM · CNN-LSTM · ONNX · OpenVINO · 4-bit Quantization
-LLM Systems │  Llama-3 · Phi-2 · Whisper · RAG · FAISS · ChromaDB
-Vision      │  YOLOv8 · FaceNet · OpenCV · Edge inference (ARM / RPi)
-Robotics    │  ROS2 · Gazebo · Webots · PyBullet · IK · FSM · Sim-to-Real
-Infra       │  FastAPI · Docker · PostgreSQL · PostGIS · ZeroMQ · Git · Linux
-```
-
----
-
-## RECOGNITION
-
-| Event | Result | Year |
-|---|---|---|
-| GlitchVerse 2k25 Project Expo | 🥈 2nd Place | 2025 |
-| MEMO Best Poster Presentation | 🥉 3rd Place | 2026 |
-| Anveshana National Engineering Competition | National Finalist | 2025 |
-| BIT Bangalore · Robotics & AI | 8.88 / 10 CGPA · Top 10% | 2023– |
-| ROBO CELL Club | Joint Secretary | — |
-
----
-
-## CURRENTLY
-
-```
-► IISc research wrapped Jun 2026 — benchmarking report in progress
-► Exploring:  Vision-Language-Action (VLA) models · Safe legged locomotion
-► Open to:    Research · AI/ML · Robotics internships (2026–2027)
-```
-
----
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jay7-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=jay7-tech&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img src="https://komarev.com/ghpvc/?username=jay7-tech&label=Profile+Views&color=00D9FF&style=flat-square" />
 
 </div>
 
@@ -168,9 +19,152 @@ Infra       │  FastAPI · Docker · PostgreSQL · PostGIS · ZeroMQ · Git · 
 
 <div align="center">
 
-`edge AI` · `robotics` · `llm systems` · `computer vision` · `research`
+```
+ ╔══════════════════════════════════════════════════════════════════════╗
+ ║                                                                      ║
+ ║   INPUT              PROCESSING              OUTPUT                  ║
+ ║                                                                      ║
+ ║  [Camera] ──►─┐                          ┌─►── [Robot Body]         ║
+ ║  [Mic]    ──►─┼──► [YOLOv8 · Whisper] ──►┤                          ║
+ ║  [Sensor] ──►─┘           │              └─►── [Voice + Text]       ║
+ ║                            ▼                                         ║
+ ║                   [Phi-2 · 4-bit · RAG]                              ║
+ ║                            │                                         ║
+ ║           latency: 600ms · uptime: 98.4% · no cloud                 ║
+ ║                   runs on: Raspberry Pi 5                            ║
+ ║                                                                      ║
+ ╚══════════════════════════════════════════════════════════════════════╝
+```
 
-[jayadeepgowda24@gmail.com](mailto:jayadeepgowda24@gmail.com) · [linkedin.com/in/jay7788](https://linkedin.com/in/jay7788) · [jayadeepgowda.vercel.app](https://jayadeepgowda.vercel.app)
+</div>
+
+---
+
+## `whoami`
+
+```yaml
+name     : Jayadeep Gowda K B
+degree   : B.E. Robotics & AI  —  BIT Bangalore  (CGPA 8.88 / 10)
+research : IISc Bangalore · Dept. of Computational & Data Sciences
+           └─ 17 ML/DL models benchmarked · 5-fold CV · Intl collab (AGH Univ. Poland)
+focus    : Edge AI · Robotics Control · LLM Systems · Computer Vision
+rule     : "If it doesn't run on $50 hardware, it isn't deployed."
+open_to  : Research · AI/ML · Robotics internships  (2026 – 2027)
+```
+
+---
+
+## `git log --oneline --all`
+
+```
+● Mar 2026  IISc CDS — 17 models on MXene piezoresistive wristband sensor data
+│           21 time/freq-domain features · international collab · AGH Univ. Poland
+│
+● Jan 2026  Sirena AI — Quadruped · Humanoid · Hexapod full lifecycle
+│           custom IK solvers · 12-state FSM · <50ms ZeroMQ latency on ARM
+│
+● Aug 2025  Frillory — LLM agentic pipeline · 50+ assets automated · −25% overhead
+│
+● Dec 2025  🥈 GlitchVerse 2k25 Project Expo  →  2nd Place
+│
+● Feb 2025  Anveshana National Engineering Competition  →  National Finalist
+│
+● Present   Joint Secretary, ROBO CELL · Core Organizer Ideathon 2025 (600+ participants)
+```
+
+---
+
+## `ls ./projects`
+
+<div align="center">
+
+| | Project | What it actually does | Stack | Result |
+|:---:|:---|:---|:---|:---:|
+| 🤖 | **[MEMO — Neural-OS](https://github.com/jay7-tech/memo)** | Multimodal desktop robot · 6 AI pipelines · fully on-device RPi 5 | YOLOv8 · Whisper · Phi-2 · RAG · FAISS | 🥉 Best Poster |
+| 🧠 | **[Cognis](https://github.com/jay7-tech/cognis)** | LLM optimizer via n-gram pattern mining · zero cloud · novel IP | Llama-3 · FAISS · FastAPI | 40–60% query cut |
+| 🎥 | **[RILA](https://github.com/jay7-tech/rila)** | Turns YouTube/Reels into searchable geo+semantic memory via Telegram | Llama 3 · PostGIS · ChromaDB · Pydantic | Hybrid retrieval |
+| 🛒 | **[YOLOmart](https://github.com/jay7-tech/Yolo_mart-main)** | Vision-guided autonomous shopping cart · 20 FPS · 92% mAP · deployed | ESP32 · YOLOv8 · React Native · Firebase | 🥈 2nd / 150+ teams |
+
+</div>
+
+---
+
+## `cat ./memo/architecture.txt`
+
+```
+┌──────────────────────── MEMO Neural-OS ─────────────────────────┐
+│                                                                  │
+│   Raspberry Pi 5                                                 │
+│   ┌─────────────┬──────────────┬────────────────┐               │
+│   │   VISION    │    SPEECH    │    LANGUAGE    │               │
+│   │  YOLOv8     │   Whisper    │  Phi-2  2.7B   │               │
+│   │  FaceNet    │   ASR        │  4-bit GGUF    │               │
+│   │             │              │  10–14 tok/s   │               │
+│   └──────┬──────┴──────┬───────┴────────┬───────┘               │
+│          └─────────────┼────────────────┘                        │
+│                        ▼                                         │
+│            ┌─── Orchestrator ───┐                                │
+│            │  Persistent Memory │ ◄── FAISS · ChromaDB           │
+│            │  Event-driven loop │                                │
+│            └────────┬───────────┘                                │
+│                     ▼                                            │
+│            Motor Control · Voice · Display                       │
+│                                                                  │
+│  E2E Latency: 600ms  │  Uptime: 98.4% (72hr)  │  Zero cloud     │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `cat ./stack.json`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</div>
+
+```
+Edge AI   │  INT8 quant · ONNX · OpenVINO · 4-bit GGUF · ARM deployment
+Robotics  │  IK solvers · 12-state FSM · Sim-to-real · PyBullet · ROS2 · Gazebo
+LLM Sys   │  RAG · FAISS · ChromaDB · Llama-3 · Phi-2 · Whisper · ZeroMQ
+Data/ML   │  CNN · BiLSTM · CNN-LSTM · 5-fold CV · PostGIS · Pydantic
+```
+
+---
+
+## `./stats.sh`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jay7-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+<img height="165" src="https://streak-stats.demolab.com/?user=jay7-tech&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=jay7-tech&custom_title=Contribution+Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Currently exploring  →  Vision-Language-Action models · Safe legged locomotion
+Open for             →  Research · AI/ML · Robotics internships
+```
+
+[![Reach out](https://img.shields.io/badge/Reach_out-jayadeepgowda24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepgowda24@gmail.com)
 
 </div>
 
