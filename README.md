@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineer+%40+BIT+Bangalore;IISc+Research+Intern+%E2%80%94+Dept.+of+CDS;Edge+AI+%7C+Deployed+on+%2450+Hardware%2C+Not+Cloud;2.7B+LLM+Running+on+a+Raspberry+Pi" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=720&lines=building+real+AI+systems+—+not+demos%2C+not+slides.;robotics+%7C+machine+learning+%7C+deep+learning+%7C+LLMs.;research+intern+%40+IISc+Bangalore.;edge+inference+on+bare+metal+since+day+one." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=720&lines=building+real+AI+systems+%E2%80%94+not+demos%2C+not+slides.;robotics+%7C+machine+learning+%7C+deep+learning+%7C+LLMs.;research+intern+%40+IISc+Bangalore.;edge+inference+on+bare+metal+since+day+one." />
 
 </div>
 
@@ -163,7 +163,7 @@ Core organizer — <b>Ideathon 2025</b> with 600+ participants. Leading robotics
 [![](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)](https://github.com/jay7-tech/rila)
 [![](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/jay7-tech/rila)
 
-> YouTube/Reels → structured, searchable memory. Hybrid retrieval: geospatial (PostGIS) + semantic (ChromaDB). Accessible via Telegram.
+> YouTube/Reels → structured, searchable memory. Hybrid retrieval: geospatial (PostGIS) + semantic (ChromaDB). Accessible via Telegram. To train LLMs / AI agents.
 
 </div>
 
@@ -172,7 +172,7 @@ Core organizer — <b>Ideathon 2025</b> with 600+ participants. Leading robotics
 <div align="center">
 
 ### 🛒 YOLOmart
-*Autonomous vision cart — 🥈 2nd / 150+ teams nationally*
+*Autonomous vision cart — 🥈 2nd @ GlitchVerse 2k25*
 
 [![](https://img.shields.io/badge/YOLOv8-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/jay7-tech/Yolo_mart-main)
 [![](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/jay7-tech/Yolo_mart-main)
@@ -231,8 +231,8 @@ Core organizer — <b>Ideathon 2025</b> with 600+ participants. Leading robotics
 |:---:|:---|:---:|
 | 🥈 | GlitchVerse 2k25 Project Expo | **2nd Place** |
 | 🥉 | MEMO — Best Poster Presentation | **3rd Place** |
+| 🏅 | ME-RIISE Hackathon Winner | **4th Place** |
 | 🏅 | Anveshana National Engineering Competition | **National Finalist** |
-| 📚 | BIT Bangalore · Robotics & AI | **Top 10% · 8.88 GPA** |
 
 <br/>
 
@@ -246,13 +246,27 @@ Core organizer — <b>Ideathon 2025</b> with 600+ participants. Leading robotics
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=jay7-tech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jay7-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;
-<img height="155" src="https://streak-stats.demolab.com/?user=jay7-tech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ffa657&currStreakLabel=ffffff&sideLabels=8b949e&dates=555555"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=jay7-tech&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay7-tech&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=jay7-tech&theme=github-compact&bg_color=0D1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=0d2137"/>
+### `⚡ contribution neural grid`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://platane.github.io/snk/github-user-contribution-snake-dark.svg?user=jay7-tech">
+  <source media="(prefers-color-scheme: light)" srcset="https://platane.github.io/snk/github-user-contribution-snake.svg?user=jay7-tech">
+  <img alt="github contribution grid snake" src="https://platane.github.io/snk/github-user-contribution-snake-dark.svg?user=jay7-tech" width="100%">
+</picture>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jay7-tech&theme=tokyo-night&area=true&hide_border=true"/>
 
 </div>
 
