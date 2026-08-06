@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Jayadeep%20Gowda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <br/>
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineer+%40+BIT+Bangalore;IISc+Research+Intern+%E2%80%94+Dept.+of+CDS;Edge+AI+%7C+Deployed+on+%2450+Hardware%2C+Not+Cloud;2.7B+LLM+Running+on+a+Raspberry+Pi" />
 
 <div align="center">
