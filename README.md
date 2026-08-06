@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Jayadeep%20Gowda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Jayadeep%20Gowda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Robotics&descSize=18&descAlignY=58&descColor=aaaaaa" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=i+build+robots+that+walk+on+real+hardware.;i+run+2.7B+LLMs+on+a+%2450+raspberry+pi.;no+cloud.+no+shortcuts.+just+deployed+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=720&lines=building+real+AI+systems+—+not+demos%2C+not+slides.;robotics+%7C+machine+learning+%7C+deep+learning+%7C+LLMs.;research+intern+%40+IISc+Bangalore.;edge+inference+on+bare+metal+since+day+one." />
 
 </div>
 
@@ -35,10 +35,22 @@ Research Intern  ·  IISc Bangalore  ·  Dept. of Computational & Data Sciences
 
 ## `> about`
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a **Robotics & AI engineer** at BIT Bangalore (2023–2027).<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;My work lives at the intersection of **edge inference**, **legged robotics**, and **production LLM systems**.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;I don't demo on Colab. I deploy on $50 hardware and stress-test for 72 hours.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Currently wrapping up a research stint at **IISc Bangalore** — Dept. of Computational & Data Sciences.
+<br/>
+
+<div align="center">
+
+> *I work across the full AI stack — from training deep learning models and building LLM pipelines*
+> *to deploying computer vision systems and engineering robots that walk on real hardware.*
+> *Whether it's ML research, edge inference, or multimodal AI — I ship things that run.*
+
+</div>
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Robotics & AI engineer** at BIT Bangalore (2023–2027), currently a research intern at **IISc Bangalore**.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;My domain spans **machine learning, deep learning, robotics, computer vision, and LLM systems** —<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I pursue all of them seriously, not as adjacent skills but as things I actively build and publish.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm drawn to problems at the edge of what hardware can run — and I solve them in production.
 
 <br/>
 
@@ -50,40 +62,48 @@ Research Intern  ·  IISc Bangalore  ·  Dept. of Computational & Data Sciences
 
 <br/>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:0 8px 16px 0">
 
-**`IISc Bangalore`** &nbsp;`Mar–Jun 2026`
-> Research Intern · Dept. of CDS
+<img src="https://img.shields.io/badge/IISc%20Bangalore-Research%20Intern-4A90D9?style=flat-square&labelColor=0d1117"/>
+&nbsp;<img src="https://img.shields.io/badge/Mar–Jun%202026-555555?style=flat-square&labelColor=0d1117"/>
 
-Benchmarked **17 models** — CNN, BiLSTM, CNN-LSTM, 14 classical ML — on MXene piezoresistive wristband sensor data. 21 engineered features. 5-fold stratified CV. International collab with AGH University, Poland.
+**Dept. of Computational & Data Sciences**
+
+Benchmarked **17 ML/DL models** — CNN, BiLSTM, CNN-LSTM, 14 classical — on MXene piezoresistive wristband sensor data. Engineered 21 time/frequency-domain features. 5-fold stratified cross-validation. Collaborated with **AGH University, Poland**.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:0 0 16px 8px">
 
-**`Sirena AI Systems`** &nbsp;`Jan–Feb 2026`
-> R&D Intern · Robotics & Edge AI
+<img src="https://img.shields.io/badge/Sirena%20AI%20Systems-R%26D%20Intern-3fb950?style=flat-square&labelColor=0d1117"/>
+&nbsp;<img src="https://img.shields.io/badge/Jan–Feb%202026-555555?style=flat-square&labelColor=0d1117"/>
 
-Full lifecycle: **physics sim → real deployed hardware**. Custom IK solvers, 12-state FSM gait controllers for Quadruped, Humanoid, Hexapod. YOLOv8 + Whisper + Phi-2 on ARM. Sub-50ms ZeroMQ latency.
+**Robotics & Edge AI**
+
+Full lifecycle from physics simulation to deployed hardware. Built custom **IK solvers** and **12-state FSM** gait controllers for Quadruped, Humanoid, and Hexapod robots. Integrated YOLOv8 + Whisper + Phi-2 on ARM with **sub-50ms ZeroMQ** inter-process latency.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:0 8px 0 0">
 
-**`Frillory Design House`** &nbsp;`Jun–Aug 2025`
-> AI Automation Engineer
+<img src="https://img.shields.io/badge/Frillory%20Design%20House-AI%20Automation%20Eng-d2a8ff?style=flat-square&labelColor=0d1117"/>
+&nbsp;<img src="https://img.shields.io/badge/Jun–Aug%202025-555555?style=flat-square&labelColor=0d1117"/>
 
-LLM orchestration and agentic pipelines. Automated 50+ enterprise assets. 25% reduction in manual overhead.
+**AI Automation Engineer**
+
+Designed LLM prompt orchestration and agentic pipelines. Automated 50+ enterprise assets. Reduced manual overhead by 25%.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:0 0 0 8px">
 
-**`ROBO CELL · BIT Bangalore`** &nbsp;`Ongoing`
-> Joint Secretary
+<img src="https://img.shields.io/badge/ROBO%20CELL%20·%20BIT-Joint%20Secretary-ffa657?style=flat-square&labelColor=0d1117"/>
+&nbsp;<img src="https://img.shields.io/badge/Ongoing-555555?style=flat-square&labelColor=0d1117"/>
 
-Core organizer — **Ideathon 2025**, 600+ participants. Leading robotics R&D within the club.
+**Club Leadership**
+
+Core organizer — **Ideathon 2025** with 600+ participants. Leading robotics R&D, coordinating cross-functional teams, and driving technical initiatives within the club.
 
 </td>
 </tr>
@@ -101,61 +121,67 @@ Core organizer — **Ideathon 2025**, 600+ participants. Leading robotics R&D wi
 
 <div align="center">
 
-[![MEMO](https://github-readme-stats.vercel.app/api/pin/?username=jay7-tech&repo=memo&theme=radical&bg_color=0D1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&border_color=21262d&border_radius=8)](https://github.com/jay7-tech/memo)&nbsp;[![Cognis](https://github-readme-stats.vercel.app/api/pin/?username=jay7-tech&repo=cognis&theme=radical&bg_color=0D1117&title_color=ffffff&icon_color=3fb950&text_color=8b949e&border_color=21262d&border_radius=8)](https://github.com/jay7-tech/cognis)
+### 🤖 MEMO — Neural-OS
+*Six AI pipelines. One Raspberry Pi. Zero cloud.*
 
-[![RILA](https://github-readme-stats.vercel.app/api/pin/?username=jay7-tech&repo=rila&theme=radical&bg_color=0D1117&title_color=ffffff&icon_color=d2a8ff&text_color=8b949e&border_color=21262d&border_radius=8)](https://github.com/jay7-tech/rila)&nbsp;[![YOLOmart](https://github-readme-stats.vercel.app/api/pin/?username=jay7-tech&repo=Yolo_mart-main&theme=radical&bg_color=0D1117&title_color=ffffff&icon_color=ffa657&text_color=8b949e&border_color=21262d&border_radius=8)](https://github.com/jay7-tech/Yolo_mart-main)
+[![](https://img.shields.io/badge/YOLOv8-vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/jay7-tech/memo)
+[![](https://img.shields.io/badge/Whisper-speech-000000?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/jay7-tech/memo)
+[![](https://img.shields.io/badge/Phi--2%204bit-language-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/jay7-tech/memo)
+[![](https://img.shields.io/badge/FAISS-memory-009688?style=for-the-badge)](https://github.com/jay7-tech/memo)
+[![](https://img.shields.io/badge/Raspberry%20Pi%205-edge-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/jay7-tech/memo)
+
+> Multimodal desktop robot running fully on-device. Real-time detection + voice + local LLM inference + persistent memory — all simultaneously. No API. No cloud.
+>
+> 🥉 *Best Poster Presentation*
 
 </div>
 
 <br/>
 
-<details>
-<summary>&nbsp;&nbsp;<b>🤖 MEMO — Neural-OS</b>&nbsp;&nbsp;<code>multimodal desktop robot · on-device · Raspberry Pi 5</code></summary>
+<div align="center">
+
+### 🧠 Cognis
+*LLM query optimization via n-gram pattern mining*
+
+[![](https://img.shields.io/badge/Llama--3-000000?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/jay7-tech/cognis)
+[![](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)](https://github.com/jay7-tech/cognis)
+[![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/jay7-tech/cognis)
+
+> 40–60% query reduction. Sub-200ms retrieval. Fully air-gapped — no telemetry, no external calls. Novel algorithm, my IP.
+
+</div>
+
 <br/>
 
-Six concurrent AI pipelines on a single Raspberry Pi 5. Zero cloud.
+<div align="center">
 
-- Vision · **YOLOv8 + FaceNet** real-time detection
-- Speech · **Whisper ASR** voice commands
-- Language · **Phi-2 2.7B** at 4-bit quantization — 10–14 tokens/sec
-- Memory · **FAISS + ChromaDB** persistent context
-- 600ms end-to-end · 98.4% uptime over 72-hour stress test
+### 🎥 RILA
+*Turns any video into a searchable knowledge base*
 
-🥉 *Best Poster Presentation*
+[![](https://img.shields.io/badge/Llama%203-000000?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/jay7-tech/rila)
+[![](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/jay7-tech/rila)
+[![](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)](https://github.com/jay7-tech/rila)
+[![](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/jay7-tech/rila)
 
-`YOLOv8` `Whisper` `Phi-2` `FAISS` `ChromaDB` `ZeroMQ` `Raspberry Pi 5`
+> YouTube/Reels → structured, searchable memory. Hybrid retrieval: geospatial (PostGIS) + semantic (ChromaDB). Accessible via Telegram.
 
-</details>
+</div>
 
-<details>
-<summary>&nbsp;&nbsp;<b>🧠 Cognis</b>&nbsp;&nbsp;<code>LLM optimizer · 100% local · novel IP</code></summary>
 <br/>
 
-Cuts 40–60% of LLM queries via n-gram pattern mining. Sub-200ms retrieval. Fully air-gapped.
+<div align="center">
 
-`Llama-3` `FAISS` `FastAPI` `n-gram mining`
+### 🛒 YOLOmart
+*Autonomous vision cart — 🥈 2nd / 150+ teams nationally*
 
-</details>
+[![](https://img.shields.io/badge/YOLOv8-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/jay7-tech/Yolo_mart-main)
+[![](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/jay7-tech/Yolo_mart-main)
+[![](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/jay7-tech/Yolo_mart-main)
+[![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/jay7-tech/Yolo_mart-main)
 
-<details>
-<summary>&nbsp;&nbsp;<b>🎥 RILA</b>&nbsp;&nbsp;<code>AI agent · searchable video memory · Telegram</code></summary>
-<br/>
+> Real-time vision at 20 FPS, 92% mAP, 8-hour battery. Full-stack deployed. GlitchVerse 2k25.
 
-Converts YouTube/Reels into a searchable knowledge base. PostGIS for geo proximity, ChromaDB for semantics.
-
-`Llama 3` `PostgreSQL/PostGIS` `ChromaDB` `Whisper` `Pydantic` `Docker`
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;<b>🛒 YOLOmart</b>&nbsp;&nbsp;<code>autonomous cart · 🥈 2nd / 150+ teams nationally</code></summary>
-<br/>
-
-Vision-guided shopping cart. YOLOv8 at 20 FPS, 92% mAP, 8-hour battery. GlitchVerse 2k25.
-
-`ESP32` `YOLOv8` `React Native` `Firebase`
-
-</details>
+</div>
 
 <br/>
 
@@ -169,31 +195,25 @@ Vision-guided shopping cart. YOLOv8 at 20 FPS, 92% mAP, 8-hour battery. GlitchVe
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![ROS2](https://img.shields.io/badge/ROS2-0d1117?style=flat-square&logo=ros&logoColor=22314E)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Raspberry Pi](https://img.shields.io/badge/RPi-0d1117?style=flat-square&logo=raspberrypi&logoColor=C51A4A)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-</div>
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-<br/>
-
-<div align="center">
-
-```
-Edge AI      ·  INT8 / 4-bit quant  ·  ONNX  ·  OpenVINO  ·  ARM deployment
-Robotics     ·  IK solvers  ·  FSM gait  ·  Sim-to-real  ·  PyBullet  ·  Gazebo
-LLM Systems  ·  RAG  ·  FAISS  ·  ChromaDB  ·  Llama-3  ·  Phi-2  ·  Whisper
-ML / DL      ·  CNN  ·  BiLSTM  ·  CNN-LSTM  ·  5-fold CV  ·  Scikit-learn
-```
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -244,7 +264,7 @@ ML / DL      ·  CNN  ·  BiLSTM  ·  CNN-LSTM  ·  5-fold CV  ·  Scikit-learn
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=540&lines=currently+exploring+vision-language-action+models.;open+for+research+%C2%B7+AI%2FML+%C2%B7+robotics+internships+%282026%E2%80%932027%29." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=560&lines=exploring+vision-language-action+models+%26+safe+legged+locomotion.;open+for+research+%C2%B7+AI%2FML%2FDL+%C2%B7+robotics+internships+%282026%E2%80%932027%29." />
 
 </div>
 
