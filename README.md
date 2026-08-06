@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Jayadeep%20Gowda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Robotics&descSize=18&descAlignY=58&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Jayadeep%20Gowda&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <br/>
 
