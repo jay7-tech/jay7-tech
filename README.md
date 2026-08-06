@@ -1,29 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,35&height=220&section=header&text=JAYADEEP%20GOWDA&fontSize=70&fontColor=00D9FF&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,25,35&height=220&section=header&text=Jayadeep%20Gowda&fontSize=72&fontColor=00D9FF&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=ROBOTICS+%26+AI+ENGINEER+%40+BIT+BANGALORE;IISC+RESEARCH+INTERN+%E2%80%94+DEPT.+OF+CDS;EDGE+AI+%7C+Cyber-Physical+Systems+%7C+ROS2;DEPLOYING+2.7B+LLMs+ON+RASPBERRY+PI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=740&lines=ROBOTICS+%26+AI+ENGINEER+%40+BIT+BANGALORE;RESEARCH+INTERN+%40+CDS%2C+IISC+BANGALORE;EDGE+AI+%7C+CYBER-PHYSICAL+SYSTEMS+%7C+ROS2;DEPLOYING+2.7B+LLMs+ON+RASPBERRY+PI" />
 
 <br/>
 
-[![](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://jayadeepgowda.vercel.app)&nbsp;&nbsp;[![](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay7788)&nbsp;&nbsp;[![](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepgowda24@gmail.com)
+[![](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://jayadeepgowda.vercel.app)&nbsp;&nbsp;[![](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay7788)&nbsp;&nbsp;[![](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayadeepgowda24@gmail.com)
 
 </div>
 
 <br/>
 
+<!-- ==================== HERO HIGHLIGHTS ==================== -->
+
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
 <tr>
-<td align="center" style="padding: 18px 12px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px;">
+<td align="center" style="padding: 20px 15px; background: #0d1117; border: 1px solid #21262d; border-radius: 12px;">
 
-[![](https://img.shields.io/badge/ROLE-Robotics%20%26%20AI%20Engineer-00D9FF?style=for-the-badge&labelColor=161b22&logo=robot&logoColor=00D9FF)](#)&nbsp;&nbsp;[![](https://img.shields.io/badge/ACADEMICS-BIT%20Bangalore%20%C2%B7%20CGPA%208.88-3fb950?style=for-the-badge&labelColor=161b22&logo=graduation-cap&logoColor=3fb950)](#)
-<br/><br/>
-[![](https://img.shields.io/badge/RESEARCH%20INTERN-IISc%20Bangalore%20%C2%B7%20Dept.%20of%20CDS-4A90D9?style=for-the-badge&labelColor=161b22)](#)
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20ACADEMICS-BIT%20Bangalore%20%C2%B7%20CGPA%208.88%20(Top%2010%25)-00D9FF?style=for-the-badge&labelColor=161b22"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🔬%20RESEARCH-IISc%20Bangalore%20%C2%B7%20Dept.%20of%20CDS-4A90D9?style=for-the-badge&labelColor=161b22"/>
+</p>
 
-[![](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/LLM%20Systems-009688?style=for-the-badge&logo=openai&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Robotics%20%26%20ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLM%20Systems-009688?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -31,26 +40,28 @@
 
 </div>
 
+<br/>
+
 ---
 
 <br/>
 
-## `> sys.about()`
+## ⚡ ABOUT ME
 
 <br/>
 
 <div align="center">
 
-<i>"Engineering at the intersection of silicon and intelligence — building autonomous quadrupeds,<br/>
-air-gapped LLM inference engines, and real-time computer vision deployed directly on edge hardware."</i>
+> *"Engineering at the intersection of silicon and intelligence — building autonomous quadrupeds,<br/>
+> air-gapped LLM inference engines, and real-time computer vision deployed directly on edge hardware."*
 
 </div>
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 **Robotics & AI engineer** at BIT Bangalore (2023–2027), currently conducting research at **Computational Data Sciences(CDS), IISc Bangalore**.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;⚡ Specializing in **machine learning, deep learning, computer vision, robotics, kinematics, and LLM systems**.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Focused on bare-metal optimization, low-latency ZeroMQ inter-process IPC, and shipping production-ready AI models.
+- 🤖 **Robotics & AI Engineer** at BIT Bangalore (2023–2027), currently conducting research at **Computational Data Sciences (CDS), IISc Bangalore**.
+- ⚡ **Core Focus**: Machine learning, deep learning, computer vision, quadruped robotics, kinematics, and local LLM systems.
+- 🛠️ **Engineering Philosophy**: Bare-metal optimization, low-latency ZeroMQ inter-process IPC, and shipping production-ready AI models.
 
 <br/>
 
@@ -58,7 +69,7 @@ air-gapped LLM inference engines, and real-time computer vision deployed directl
 
 <br/>
 
-## `> sys.experience()`
+## 💼 RESEARCH & EXPERIENCE
 
 <br/>
 
@@ -98,7 +109,7 @@ Architected LLM prompt orchestration pipelines and autonomous agent workflows. A
 </td>
 <td width="50%" valign="top" style="padding:0 0 0 10px">
 
-<img src="https://img.shields.io/badge/ROBO%20CELL%20·%20BIT-Joint%20Secretary-ffa657?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ROBOTICS%20CLUB-Joint%20Secretary-ffa657?style=flat-square&labelColor=0d1117"/>
 &nbsp;<img src="https://img.shields.io/badge/Ongoing-00D9FF?style=flat-square&labelColor=0d1117"/>
 <br/><br/>
 <b>ROBOTICS CLUB @ BIT Bangalore</b><br/>
@@ -115,7 +126,7 @@ Core organizer for <b>Ideathon 2025</b> (600+ participants). Leading robotics R&
 
 <br/>
 
-## `> sys.projects()`
+## 🚀 FEATURED PROJECTS
 
 <br/>
 
@@ -187,7 +198,7 @@ Core organizer for <b>Ideathon 2025</b> (600+ participants). Leading robotics R&
 
 <br/>
 
-## `> sys.stack()`
+## 🛠️ TECH MATRIX
 
 <br/>
 
@@ -219,7 +230,7 @@ Core organizer for <b>Ideathon 2025</b> (600+ participants). Leading robotics R&
 
 <br/>
 
-## `> sys.achievements()`
+## 🏆 RECOGNITION & AWARDS
 
 <br/>
 
@@ -241,7 +252,7 @@ Core organizer for <b>Ideathon 2025</b> (600+ participants). Leading robotics R&
 
 <br/>
 
-## `> sys.telemetry()`
+## 📊 TELEMETRY & STATS
 
 <br/>
 
@@ -271,6 +282,6 @@ Core organizer for <b>Ideathon 2025</b> (600+ participants). Leading robotics R&
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,35&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,25,35&height=100&section=footer" width="100%"/>
 
 </div>
