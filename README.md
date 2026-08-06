@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=ROBOTICS+%26+AI+ENGINEER+%40+BIT+BANGALORE;IISC+RESEARCH+INTERN+%E2%80%94+DEPT.+OF+CDS;EDGE+AI+%7C+BARE+METAL+INFERENCE+%7C+ROS2;DEPLOYING+2.7B+LLMs+ON+RASPBERRY+PI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=ROBOTICS+%26+AI+ENGINEER+%40+BIT+BANGALORE;IISC+RESEARCH+INTERN+%E2%80%94+DEPT.+OF+CDS;EDGE+AI+%7C+Cyber-Physical+Systems+%7C+ROS2;DEPLOYING+2.7B+LLMs+ON+RASPBERRY+PI" />
 
 <br/>
 
@@ -15,11 +15,9 @@
 <div align="center">
 
 ```gdb
-┌──(root⚡jay7-tech)-[~]
-└─$ ./system_info --status
   [ROLE]       Robotics & AI Engineer  ·  BIT Bangalore (CGPA 8.88/10)
   [INTERN]     Research Intern         ·  IISc Bangalore (Dept. of CDS)
-  [STACK]      Edge AI  ·  Deep Learning  ·  ROS2  ·  LLM Systems  ·  Computer Vision
+  [STACK]      Machine Learning  ·  Deep Learning  ·  Research  ·  ROS2  ·  LLM Systems  ·  Computer Vision
 ```
 
 </div>
@@ -41,8 +39,8 @@ air-gapped LLM inference engines, and real-time computer vision deployed directl
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 **Robotics & AI engineer** at BIT Bangalore (2023–2027), currently conducting research at **IISc Bangalore**.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;⚡ Specializing in **machine learning, computer vision, quadruped kinematics, and local LLM deployment**.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🤖 **Robotics & AI engineer** at BIT Bangalore (2023–2027), currently conducting research at **Computational Data Sciences(CDS), IISc Bangalore**.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;⚡ Specializing in **machine learning, deep learning, computer vision, robotics, kinematics, and LLM systems**.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🛠️ Focused on bare-metal optimization, low-latency ZeroMQ inter-process IPC, and shipping production-ready AI models.
 
 <br/>
@@ -59,7 +57,7 @@ air-gapped LLM inference engines, and real-time computer vision deployed directl
 <tr>
 <td width="50%" valign="top" style="padding:0 10px 16px 0">
 
-<img src="https://img.shields.io/badge/IISc%20Bangalore-Research%20Intern-4A90D9?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CDS%20IISc%20Bangalore-Research%20Intern-4A90D9?style=flat-square&labelColor=0d1117"/>
 &nbsp;<img src="https://img.shields.io/badge/Mar–Jun%202026-00D9FF?style=flat-square&labelColor=0d1117"/>
 <br/><br/>
 <b>Dept. of Computational & Data Sciences</b><br/>
@@ -94,7 +92,7 @@ Architected LLM prompt orchestration pipelines and autonomous agent workflows. A
 <img src="https://img.shields.io/badge/ROBO%20CELL%20·%20BIT-Joint%20Secretary-ffa657?style=flat-square&labelColor=0d1117"/>
 &nbsp;<img src="https://img.shields.io/badge/Ongoing-00D9FF?style=flat-square&labelColor=0d1117"/>
 <br/><br/>
-<b>Club Leadership</b><br/>
+<b>ROBOTICS CLUB @ BIT Bangalore</b><br/>
 
 Core organizer for <b>Ideathon 2025</b> (600+ participants). Leading robotics R&D hardware initiatives, technical workshops, and cross-functional engineering teams.
 
@@ -163,7 +161,7 @@ Core organizer for <b>Ideathon 2025</b> (600+ participants). Leading robotics R&
 <div align="center">
 
 ### 🛒 YOLOmart — Autonomous Vision Cart
-*Real-time shopping assistant — National Hackathon Winner*
+*Real-time shopping assistant with custom AI-driven hardware*
 
 [![](https://img.shields.io/badge/YOLOv8-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/jay7-tech/Yolo_mart-main)
 [![](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/jay7-tech/Yolo_mart-main)
