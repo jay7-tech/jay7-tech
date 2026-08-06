@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+<defs>
+  <style>
+    .bg{fill:#000005}
+    @keyframes disk-cw  {from{transform:rotate(0deg)}  to{transform:rotate(360deg)}}
+    @keyframes disk-ccw {from{transform:rotate(0deg)}  to{transform:rotate(-360deg)}}
+    .d1{animation:disk-cw   14s linear infinite;transform-origin:450px 250px}
+    .d2{animation:disk-ccw  22s linear infinite;transform-origin:450px 250px}
+    .d3{animation:disk-cw   36s linear infinite;transform-origin:450px 250px}
+    .d4{animation:disk-cw   9s  linear infinite;transform-origin:450px 250px}
+    .cr1{animation:disk-cw   55s linear infinite;transform-origin:450px 250px}
+    .cr2{animation:disk-ccw  45s linear infinite;transform-origin:450px 250px}
+    .cr3{animation:disk-cw   72s linear infinite;transform-origin:450px 250px}
+    .cr4{animation:disk-ccw  38s linear infinite;transform-origin:450px 250px}
+    .cr5{animation:disk-cw   95s linear infinite;transform-origin:450px 250px}
+    @keyframes orb1{from{transform:rotate(0deg)   translateX(78px)  rotate(0deg)}   to{transform:rotate(360deg)  translateX(78px)  rotate(-360deg)}}
+    @keyframes orb2{from{transform:rotate(120deg) translateX(78px)  rotate(-120deg)} to{transform:rotate(480deg)  translateX(78px)  rotate(-480deg)}}
+    @keyframes orb3{from{transform:rotate(240deg) translateX(78px)  rotate(-240deg)} to{transform:rotate(600deg)  translateX(78px)  rotate(-600deg)}}
+    @keyframes orb4{from{transform:rotate(60deg)  translateX(118px) rotate(-60deg)}  to{transform:rotate(-300deg) translateX(118px) rotate(300deg)}}
+    @keyframes orb5{from{transform:rotate(200deg) translateX(118px) rotate(-200deg)} to{transform:rotate(-160deg) translateX(118px) rotate(160deg)}}
+    .o1{animation:orb1 4.2s linear infinite;transform-origin:450px 250px}
+    .o2{animation:orb2 4.2s linear infinite;transform-origin:450px 250px}
+    .o3{animation:orb3 4.2s linear infinite;transform-origin:450px 250px}
+    .o4{animation:orb4 7.5s linear infinite;transform-origin:450px 250px}
+    .o5{animation:orb5 7.5s linear infinite;transform-origin:450px 250px}
+    @keyframes ph{0%,100%{opacity:.65;stroke-width:.9}50%{opacity:1;stroke-width:1.5}}
+    .photon{animation:ph 2.8s ease-in-out infinite}
+    @keyframes amb{0%,100%{opacity:.18}50%{opacity:.34}}
+    @keyframes amb2{0%,100%{opacity:.12}50%{opacity:.26}}
+    .a1{animation:amb  5s ease-in-out infinite}
+    .a2{animation:amb2 7s ease-in-out infinite 1.2s}
+  </style>
+
+  <radialGradient id="void" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="#000000"/>
+    <stop offset="90%"  stop-color="#000000"/>
+    <stop offset="100%" stop-color="#0a0200" stop-opacity=".5"/>
+  </radialGradient>
+  <radialGradient id="hw" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="#000000" stop-opacity="0"/>
+    <stop offset="46%"  stop-color="#c84e00" stop-opacity=".24"/>
+    <stop offset="66%"  stop-color="#ff6600" stop-opacity=".16"/>
+    <stop offset="84%"  stop-color="#6b1f00" stop-opacity=".07"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="hb" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="#000000" stop-opacity="0"/>
+    <stop offset="52%"  stop-color="#061e50" stop-opacity=".14"/>
+    <stop offset="82%"  stop-color="#020d28" stop-opacity=".07"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="fg" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="22"/>
+  </filter>
+  <filter id="fm" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="12"/>
+  </filter>
+  <filter id="fs" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="5"/>
+  </filter>
+  <filter id="fx" x="-10%" y="-10%" width="120%" height="120%">
+    <feGaussianBlur stdDeviation="1.8"/>
+  </filter>
+
+  <path id="r155" d="M450,250 m-155,0 a155,155 0 1,1 310,0 a155,155 0 1,1 -310,0"/>
+  <path id="r175" d="M450,250 m-175,0 a175,175 0 1,1 350,0 a175,175 0 1,1 -350,0"/>
+  <path id="r200" d="M450,250 m-200,0 a200,200 0 1,1 400,0 a200,200 0 1,1 -400,0"/>
+  <path id="r224" d="M450,250 m-224,0 a224,224 0 1,1 448,0 a224,224 0 1,1 -448,0"/>
+  <path id="r248" d="M450,250 m-248,0 a248,248 0 1,1 496,0 a248,248 0 1,1 -496,0"/>
+</defs>
+
+<rect class="bg" width="900" height="500"/>
+
+<!-- starfield -->
+<circle fill="#fff" cx="32"  cy="18"  r=".6" opacity=".5"/>
+<circle fill="#fff" cx="120" cy="44"  r=".4" opacity=".35"/>
+<circle fill="#fff" cx="78"  cy="90"  r=".7" opacity=".5"/>
+<circle fill="#fff" cx="205" cy="22"  r=".5" opacity=".4"/>
+<circle fill="#fff" cx="280" cy="68"  r=".4" opacity=".3"/>
+<circle fill="#fff" cx="58"  cy="160" r=".6" opacity=".45"/>
+<circle fill="#fff" cx="150" cy="200" r=".4" opacity=".3"/>
+<circle fill="#fff" cx="22"  cy="320" r=".7" opacity=".5"/>
+<circle fill="#fff" cx="98"  cy="400" r=".5" opacity=".4"/>
+<circle fill="#fff" cx="190" cy="460" r=".4" opacity=".3"/>
+<circle fill="#fff" cx="870" cy="30"  r=".6" opacity=".5"/>
+<circle fill="#fff" cx="820" cy="80"  r=".4" opacity=".35"/>
+<circle fill="#fff" cx="760" cy="22"  r=".7" opacity=".5"/>
+<circle fill="#fff" cx="840" cy="170" r=".5" opacity=".4"/>
+<circle fill="#fff" cx="880" cy="280" r=".4" opacity=".3"/>
+<circle fill="#fff" cx="798" cy="390" r=".6" opacity=".45"/>
+<circle fill="#fff" cx="855" cy="450" r=".4" opacity=".3"/>
+<circle fill="#fff" cx="650" cy="15"  r=".5" opacity=".4"/>
+<circle fill="#fff" cx="550" cy="490" r=".6" opacity=".45"/>
+<circle fill="#fff" cx="340" cy="8"   r=".6" opacity=".5"/>
+<circle fill="#fff" cx="480" cy="5"   r=".4" opacity=".35"/>
+<circle fill="#fff" cx="410" cy="492" r=".5" opacity=".4"/>
+<circle fill="#fff" cx="166" cy="340" r=".5" opacity=".35"/>
+<circle fill="#fff" cx="730" cy="310" r=".4" opacity=".3"/>
+<circle fill="#fff" cx="760" cy="440" r=".6" opacity=".4"/>
+
+<!-- ambient halos -->
+<circle cx="450" cy="250" r="248" fill="url(#hb)" class="a2" filter="url(#fg)"/>
+<circle cx="450" cy="250" r="195" fill="url(#hw)" class="a1" filter="url(#fm)"/>
+
+<!-- accretion disk — 4 layered rotating ellipses -->
+<g class="d3" filter="url(#fg)">
+  <ellipse cx="450" cy="250" rx="182" ry="36" fill="none" stroke="#5a1e00" stroke-width="44" opacity=".20"/>
+</g>
+<g class="d2" filter="url(#fm)">
+  <ellipse cx="450" cy="250" rx="158" ry="27" fill="none" stroke="#d04800" stroke-width="22" opacity=".24"/>
+</g>
+<g class="d1" filter="url(#fs)">
+  <ellipse cx="450" cy="250" rx="138" ry="19" fill="none" stroke="#ff6e00" stroke-width="12" opacity=".34"/>
+</g>
+<g class="d4" filter="url(#fx)">
+  <ellipse cx="450" cy="250" rx="124" ry="13" fill="none" stroke="#ffaa44" stroke-width="4" opacity=".60"/>
+</g>
+
+<!-- CODE RINGS — 5 rings of real code rotating at different speeds/directions -->
+<g class="cr1">
+  <text font-family="'Courier New',monospace" font-size="7.5" fill="#00d9ff" opacity=".58" letter-spacing="1.1">
+    <textPath href="#r155">0x1F 0xA3 11001010 typedef void* 0xFF 10110001 malloc(size_t n) 0x2E struct Node{} 11111000 0xB7 reinterpret_cast&lt;T*&gt;(ptr) 00101101 0x9C sizeof(T) 11010110 template&lt;typename T, size_t N&gt; 00011111 0xD1 constexpr auto 10101010 0x73 noexcept(true) 01010101 0xFE static_assert(N&gt;0) 11100011 0x18 alignas(16) 00111100 0x55 std::move(x) 11001100</textPath>
+  </text>
+</g>
+<g class="cr2">
+  <text font-family="'Courier New',monospace" font-size="7.5" fill="#3fb950" opacity=".52" letter-spacing="1.3">
+    <textPath href="#r175">model.eval() torch.no_grad() F.softmax(logits,dim=-1) nn.Linear(768,256) optim.AdamW(params,lr=2e-4,wd=0.01) DataLoader(dataset,batch_size=32,shuffle=True) loss.backward() scaler.step(optimizer) scheduler.step() torch.cuda.amp.autocast() F.cross_entropy(pred,target) nn.BCEWithLogitsLoss() clip_grad_norm_(model.parameters(),1.0) torch.save(checkpoint)</textPath>
+  </text>
+</g>
+<g class="cr3">
+  <text font-family="'Courier New',monospace" font-size="7" fill="#ffa657" opacity=".47" letter-spacing="1.2">
+    <textPath href="#r200">rclpy.init(args=None) super().__init__('robot_node') self.create_subscription(Twist,'cmd_vel',self.cb,10) self.create_publisher(JointState,'/joint_states',10) tf2_ros.TransformBroadcaster(self) IKSolver.jacobian(q,n_dof=6) FSM.transition(WALK,TROT,GALLOP) pybullet.stepSimulation() sim_to_real.validate_gait() urdf_parser.parse() xacro.process_file() PoseStamped() Quaternion.slerp(q1,q2,t) nav2_msgs costmap_2d</textPath>
+  </text>
+</g>
+<g class="cr4">
+  <text font-family="'Courier New',monospace" font-size="7" fill="#d2a8ff" opacity=".44" letter-spacing="1.2">
+    <textPath href="#r224">ort.InferenceSession('model.onnx') quantize_dynamic(model,{nn.Linear},dtype=qint8) llama_cpp.Llama(model_path,n_gpu_layers=35,n_ctx=4096) faiss.IndexFlatL2(d=768) index.add(np.array(embeddings)) D,I=index.search(xq,k=10) chromadb.PersistentClient(path) collection.query(query_embeddings,n_results=5) zmq.Context().socket(zmq.PUB) whisper.load_model('base.en') pipeline('automatic-speech-recognition') AutoTokenizer.from_pretrained('phi-2')</textPath>
+  </text>
+</g>
+<g class="cr5">
+  <text font-family="'Courier New',monospace" font-size="6.5" fill="#ffffff" opacity=".22" letter-spacing="1.5">
+    <textPath href="#r248">∇L(θ) = ∂L/∂θ   argmax_y P(y|x;θ)   KL(p‖q) = Σ p(x) log p(x)/q(x)   E[X²]−E[X]²   softmax(z/τ)   ‖W‖² regularizer   ReLU(Wx+b)   BatchNorm(μ,σ²)   LayerNorm   GELU(x)   MultiHeadAttention(Q,K,V)   sin(pos/10000^(2i/d_model))   dropout(p=0.1)   residual_stream   H(p,q)=−Σp log q   jacobian_IK ∂x/∂θ   Lagrangian L=T−V   Hamiltonian H=T+V   ∫L dt   manifold hypothesis</textPath>
+  </text>
+</g>
+
+<!-- photon ring -->
+<circle cx="450" cy="250" r="68" fill="none" stroke="#ffffff" stroke-width="1.1" class="photon"/>
+<circle cx="450" cy="250" r="69.5" fill="none" stroke="#ffcc88" stroke-width=".5" opacity=".35"/>
+<circle cx="450" cy="250" r="66.5" fill="none" stroke="#ff8800" stroke-width=".7" opacity=".25" filter="url(#fx)"/>
+
+<!-- event horizon -->
+<circle cx="450" cy="250" r="65" fill="url(#void)"/>
+<circle cx="450" cy="250" r="63" fill="#000000"/>
+
+<!-- orbital particles -->
+<g class="o1"><circle cx="450" cy="250" r="2.8" fill="#58a6ff"  opacity=".95"/></g>
+<g class="o2"><circle cx="450" cy="250" r="2.2" fill="#ffa657"  opacity=".9"/></g>
+<g class="o3"><circle cx="450" cy="250" r="1.8" fill="#d2a8ff"  opacity=".85"/></g>
+<g class="o4"><circle cx="450" cy="250" r="1.5" fill="#ffffff"  opacity=".6"/></g>
+<g class="o5"><circle cx="450" cy="250" r="1.2" fill="#3fb950"  opacity=".7"/></g>
+
+</svg>
