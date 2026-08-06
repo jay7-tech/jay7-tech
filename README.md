@@ -14,11 +14,20 @@
 
 <div align="center">
 
-```gdb
-  [ROLE]       Robotics & AI Engineer  ·  BIT Bangalore (CGPA 8.88/10)
-  [INTERN]     Research Intern         ·  IISc Bangalore (Dept. of CDS)
-  [STACK]      Machine Learning  ·  Deep Learning  ·  Research  ·  ROS2  ·  LLM Systems  ·  Computer Vision
-```
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" style="padding: 18px 12px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px;">
+
+[![](https://img.shields.io/badge/ROLE-Robotics%20%26%20AI%20Engineer-00D9FF?style=for-the-badge&labelColor=161b22&logo=robot&logoColor=00D9FF)](#)&nbsp;&nbsp;[![](https://img.shields.io/badge/ACADEMICS-BIT%20Bangalore%20%C2%B7%20CGPA%208.88-3fb950?style=for-the-badge&labelColor=161b22&logo=graduation-cap&logoColor=3fb950)](#)
+<br/><br/>
+[![](https://img.shields.io/badge/RESEARCH%20INTERN-IISc%20Bangalore%20%C2%B7%20Dept.%20of%20CDS-4A90D9?style=for-the-badge&labelColor=161b22)](#)
+<br/><br/>
+
+[![](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/LLM%20Systems-009688?style=for-the-badge&logo=openai&logoColor=white)](#)&nbsp;[![](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 </div>
 
