@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineer+%40+BIT+Bangalore;IISc+Research+Intern+%E2%80%94+Dept.+of+CDS;Edge+AI+%7C+Deployed+on+%2450+Hardware%2C+Not+Cloud;2.7B+LLM+Running+on+a+Raspberry+Pi" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=720&lines=building+real+AI+systems+%E2%80%94+not+demos%2C+not+slides.;robotics+%7C+machine+learning+%7C+deep+learning+%7C+LLMs.;research+intern+%40+IISc+Bangalore.;edge+inference+on+bare+metal+since+day+one." />
 
 </div>
 
