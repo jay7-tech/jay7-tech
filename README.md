@@ -21,7 +21,7 @@
 <td align="center" style="padding: 20px 15px; background: #0d1117; border: 1px solid #21262d; border-radius: 12px;">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20ACADEMICS-BIT%20Bangalore%20%C2%B7%20CGPA%208.88%20(Top%2010%25)-00D9FF?style=for-the-badge&labelColor=161b22"/>
+  <img src="https://img.shields.io/badge/🎓%20ACADEMICS-BIT%20Bangalore%20%C2%B7%20CGPA%208.88%20-00D9FF?style=for-the-badge&labelColor=161b22"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🔬%20RESEARCH-IISc%20Bangalore%20%C2%B7%20Dept.%20of%20CDS-4A90D9?style=for-the-badge&labelColor=161b22"/>
 </p>
