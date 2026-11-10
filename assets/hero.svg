@@ -1,0 +1,145 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040508"/>
+      <stop offset="45%" stop-color="#090c16"/>
+      <stop offset="100%" stop-color="#0c1120"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="40%" stop-color="#38bdf8"/>
+      <stop offset="75%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="30%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#101935" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#101935" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowV" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textGlow" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.1" cy="1.1" r="1.1" fill="#38bdf8" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="420" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#bgGrad)"/>
+    <rect width="1200" height="420" fill="url(#dots)"/>
+    <rect width="1200" height="420" fill="url(#vignette)"/>
+
+    <circle cx="880" cy="210" r="320" fill="url(#glowR)" opacity="0.14">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -16,14; 0,0" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="80" r="200" fill="url(#glowV)" opacity="0.16">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 18,-10; 0,0" dur="13s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ================= double helix : AI / connection centerpiece ================= -->
+    <g transform="translate(895,30)">
+      <!-- strand paths, generated as smooth polylines through 34 sampled points, two full twists -->
+      <path id="strandA" fill="none" stroke="#5eead4" stroke-width="2.2" stroke-opacity="0.75" filter="url(#softGlow)"
+        d="M 95,0 C 60,12 32,24 20,36 C 8,48 8,60 20,72 C 32,84 60,96 95,108
+           C 130,120 158,132 170,144 C 182,156 182,168 170,180 C 158,192 130,204 95,216
+           C 60,228 32,240 20,252 C 8,264 8,276 20,288 C 32,300 60,312 95,324
+           C 130,336 158,348 170,360 C 178,368 180,374 178,380"/>
+      <path id="strandB" fill="none" stroke="#c084fc" stroke-width="2.2" stroke-opacity="0.75" filter="url(#softGlow)"
+        d="M 170,0 C 158,12 130,24 95,36 C 60,48 32,60 20,72 C 8,84 8,96 20,108
+           C 32,120 60,132 95,144 C 130,156 158,168 170,180 C 182,192 182,204 170,216
+           C 158,228 130,240 95,252 C 60,264 32,276 20,288 C 8,300 8,312 20,324
+           C 32,336 60,348 95,360 C 112,368 110,374 112,380"/>
+
+      <!-- rungs connecting the two strands at intervals -->
+      <g stroke="#9fb3c8" stroke-opacity="0.3" stroke-width="1.3">
+        <line x1="20" y1="36" x2="170" y2="0"/>
+        <line x1="20" y1="72" x2="170" y2="180"/>
+        <line x1="95" y1="108" x2="95" y2="144"/>
+        <line x1="170" y1="144" x2="20" y2="108"/>
+        <line x1="20" y1="252" x2="170" y2="216"/>
+        <line x1="95" y1="216" x2="95" y2="252"/>
+        <line x1="170" y1="360" x2="20" y2="324"/>
+        <line x1="95" y1="324" x2="95" y2="360"/>
+      </g>
+
+      <!-- node glows at the sample points -->
+      <g fill="#e2f4ff">
+        <circle cx="95" cy="0" r="3.4"/><circle cx="20" cy="36" r="3.4"/><circle cx="20" cy="72" r="3.4"/>
+        <circle cx="95" cy="108" r="3.4"/><circle cx="170" cy="144" r="3.4"/><circle cx="170" cy="180" r="3.4"/>
+        <circle cx="95" cy="216" r="3.4"/><circle cx="20" cy="252" r="3.4"/><circle cx="20" cy="288" r="3.4"/>
+        <circle cx="95" cy="324" r="3.4"/><circle cx="170" cy="360" r="3.4"/>
+        <circle cx="170" cy="0" r="3.4"/><circle cx="20" cy="108" r="3.4"/><circle cx="170" cy="216" r="3.4"/>
+        <circle cx="20" cy="324" r="3.4"/>
+      </g>
+
+      <!-- signal pulses flowing continuously along each strand -->
+      <circle r="4.4" fill="#5eead4" filter="url(#softGlow)">
+        <animateMotion dur="5.5s" repeatCount="indefinite"><mpath href="#strandA"/></animateMotion>
+      </circle>
+      <circle r="4.4" fill="#c084fc" filter="url(#softGlow)">
+        <animateMotion dur="6.5s" begin="1.4s" repeatCount="indefinite"><mpath href="#strandB"/></animateMotion>
+      </circle>
+      <circle r="3" fill="#38bdf8" filter="url(#softGlow)">
+        <animateMotion dur="7.2s" begin="3s" repeatCount="indefinite"><mpath href="#strandA"/></animateMotion>
+      </circle>
+    </g>
+
+    <!-- drifting binary digits, sparse and quiet -->
+    <g font-family="Consolas, Menlo, monospace" font-size="13" fill="#5eead4">
+      <text x="760" y="60" opacity="0">01<animate attributeName="opacity" values="0;0.5;0" dur="7s" begin="0.3s" repeatCount="indefinite"/></text>
+      <text x="1120" y="130" opacity="0">10<animate attributeName="opacity" values="0;0.45;0" dur="8s" begin="2s" repeatCount="indefinite"/></text>
+      <text x="1060" y="340" opacity="0">01<animate attributeName="opacity" values="0;0.5;0" dur="6.5s" begin="1.1s" repeatCount="indefinite"/></text>
+      <text x="820" y="380" opacity="0">11<animate attributeName="opacity" values="0;0.4;0" dur="9s" begin="3.4s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- faint circuit lines, left side, kept modest now that the helix carries the motif -->
+    <g stroke="#38bdf8" stroke-opacity="0.14" stroke-width="1" fill="none">
+      <path d="M 40 40 L 110 40 L 110 80"/>
+    </g>
+    <g fill="#5eead4" fill-opacity="0.5">
+      <circle cx="40" cy="40" r="2.2"/><circle cx="110" cy="80" r="2.2"/>
+    </g>
+
+    <!-- ================= identity block ================= -->
+    <text x="64" y="68" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" letter-spacing="3" fill="#5eead4">
+      AI · MACHINE LEARNING · SOFTWARE · ROBOTICS
+    </text>
+
+    <text x="62" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="url(#nameGrad)" filter="url(#textGlow)" letter-spacing="0.5">
+      Jayadeep Gowda
+    </text>
+    <rect x="66" y="196" width="210" height="4" rx="2" fill="#38bdf8" fill-opacity="0.6"/>
+
+    <g font-family="Consolas, Menlo, monospace" font-size="23" fill="#b9c8dc">
+      <text x="66" y="248" opacity="0">
+        AI, ML and Robotics Engineer
+        <animate attributeName="opacity" values="0;1;1;0;0;0;0;0" keyTimes="0;0.04;0.21;0.25;0.5;0.75;0.96;1" dur="14s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="248" opacity="0">
+        Research Intern, Dept of Computational and Data Sciences, IISc
+        <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.25;0.29;0.46;0.5;0.71;0.75;1" dur="14s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="248" opacity="0">
+        Open to AI, ML, Software and Robotics roles
+        <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.02;0.5;0.52;0.73;0.75;0.77;0.8;0.96;1" dur="14s" repeatCount="indefinite" additive="sum"/>
+      </text>
+    </g>
+
+    <text x="66" y="290" font-family="Consolas, Menlo, monospace" font-size="15" fill="#64748b">
+      currently teaching a quadruped how to not fall over
+    </text>
+  </g>
+</svg>

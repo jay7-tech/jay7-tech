@@ -1,0 +1,19 @@
+<svg width="210" height="56" viewBox="0 0 210 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b2333"/><stop offset="100%" stop-color="#0d1320"/>
+    </linearGradient>
+    <linearGradient id="ic" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4"/><stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="208" height="54" rx="16" fill="url(#g)" stroke="#2c3850"/>
+  <circle cx="34" cy="28" r="15" fill="#132033" stroke="url(#ic)" stroke-width="1.4"/>
+  <g stroke="url(#ic)" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <circle cx="34" cy="28" r="8.4"/>
+    <ellipse cx="34" cy="28" rx="3.6" ry="8.4"/>
+    <line x1="25.6" y1="28" x2="42.4" y2="28"/>
+  </g>
+  <text x="58" y="23" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7d8aa3" letter-spacing="1.6">VISIT</text>
+  <text x="58" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#eef2f8">Portfolio</text>
+</svg>

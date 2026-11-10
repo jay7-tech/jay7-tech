@@ -1,0 +1,15 @@
+<svg width="210" height="56" viewBox="0 0 210 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b2333"/><stop offset="100%" stop-color="#0d1320"/>
+    </linearGradient>
+    <linearGradient id="ic" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="208" height="54" rx="16" fill="url(#g)" stroke="#2c3850"/>
+  <rect x="19" y="13" width="30" height="30" rx="8" fill="#132033" stroke="url(#ic)" stroke-width="1.4"/>
+  <text x="34" y="34" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="url(#ic)">in</text>
+  <text x="58" y="23" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9.5" fill="#7d8aa3" letter-spacing="1.6">CONNECT</text>
+  <text x="58" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#eef2f8">LinkedIn</text>
+</svg>
