@@ -1,0 +1,109 @@
+<svg width="1000" height="420" viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="titlebar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a2a8f"/>
+      <stop offset="100%" stop-color="#1e8fe0"/>
+    </linearGradient>
+    <linearGradient id="btnFace" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f4f4f4"/>
+      <stop offset="100%" stop-color="#c7c7c7"/>
+    </linearGradient>
+    <linearGradient id="winBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbfbfd"/>
+      <stop offset="100%" stop-color="#eef0f4"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#softShadow)">
+    <!-- outer window frame -->
+    <rect x="8" y="8" width="984" height="404" rx="9" fill="url(#winBody)" stroke="#9aa3b2" stroke-width="1.5"/>
+
+    <!-- title bar -->
+    <path d="M8 17 a9 9 0 0 1 9 -9 h966 a9 9 0 0 1 9 9 v30 h-984 z" fill="url(#titlebar)"/>
+    <g transform="translate(24,24)">
+      <rect x="-4" y="-9" width="18" height="14" rx="2" fill="#ffd166"/>
+      <rect x="-4" y="-9" width="18" height="4" rx="1" fill="#ffb703"/>
+    </g>
+    <text x="50" y="29" font-family="Segoe UI, Tahoma, sans-serif" font-size="14" font-weight="700" fill="#ffffff">C:\Jayadeep\Projects</text>
+
+    <!-- window buttons -->
+    <g transform="translate(900,13)" font-family="Segoe UI, Tahoma, sans-serif" font-size="12" font-weight="700">
+      <g>
+        <rect width="22" height="20" rx="2" fill="url(#btnFace)" stroke="#6b7280"/>
+        <text x="11" y="14" text-anchor="middle" fill="#1f2937">_</text>
+      </g>
+      <g transform="translate(26,0)">
+        <rect width="22" height="20" rx="2" fill="url(#btnFace)" stroke="#6b7280"/>
+        <rect x="6" y="5" width="10" height="9" fill="none" stroke="#1f2937" stroke-width="1.3"/>
+      </g>
+      <g transform="translate(52,0)">
+        <rect width="22" height="20" rx="2" fill="url(#btnFace)" stroke="#6b7280"/>
+        <text x="11" y="14" text-anchor="middle" fill="#7f1d1d">x</text>
+      </g>
+    </g>
+
+    <!-- menu bar -->
+    <text x="26" y="63" font-family="Segoe UI, Tahoma, sans-serif" font-size="12" fill="#374151">File   Edit   View   Favorites   Help</text>
+    <line x1="8" y1="72" x2="992" y2="72" stroke="#d6d9e0"/>
+
+    <!-- address bar -->
+    <g transform="translate(26,84)">
+      <text font-family="Segoe UI, Tahoma, sans-serif" font-size="12" fill="#6b7280">Address</text>
+      <rect x="62" y="-13" width="896" height="22" rx="3" fill="#ffffff" stroke="#9aa3b2"/>
+      <text x="70" y="3" font-family="Consolas, Menlo, monospace" font-size="12" fill="#1f2937">C:\Jayadeep\Projects\*.featured</text>
+    </g>
+
+    <!-- icon grid: 4 "folders" as project tiles -->
+    <!-- helper macro repeated manually for each project -->
+
+    <!-- Project 1: MEMO -->
+    <g transform="translate(70,150)">
+      <rect x="-14" y="2" width="92" height="66" rx="6" fill="#ffda6a" stroke="#c98a12"/>
+      <rect x="-14" y="-10" width="40" height="14" rx="3" fill="#ffda6a" stroke="#c98a12"/>
+      <circle cx="46" cy="6" r="13" fill="#facc15" stroke="#92400e" stroke-width="1.2"/>
+      <path d="M46 -1 l2.4 4.9 5.4 0.8 -3.9 3.8 0.9 5.4 -4.8 -2.6 -4.8 2.6 0.9 -5.4 -3.9 -3.8 5.4 -0.8 z" fill="#fffbeb" stroke="#92400e" stroke-width="0.6"/>
+      <text x="32" y="92" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="12" font-weight="700" fill="#1f2937">MEMO.exe</text>
+      <text x="32" y="107" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="10.5" fill="#4b5563">Best Poster · 3rd</text>
+    </g>
+
+    <!-- Project 2: Cognis -->
+    <g transform="translate(290,150)">
+      <rect x="-14" y="2" width="92" height="66" rx="6" fill="#9cd3ff" stroke="#1e6fa8"/>
+      <rect x="-14" y="-10" width="40" height="14" rx="3" fill="#9cd3ff" stroke="#1e6fa8"/>
+      <text x="32" y="92" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="12" font-weight="700" fill="#1f2937">Cognis.dll</text>
+      <text x="32" y="107" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="10.5" fill="#4b5563">sub-200ms query</text>
+    </g>
+
+    <!-- Project 3: RILA -->
+    <g transform="translate(510,150)">
+      <rect x="-14" y="2" width="92" height="66" rx="6" fill="#c9b3ff" stroke="#6d4fb0"/>
+      <rect x="-14" y="-10" width="40" height="14" rx="3" fill="#c9b3ff" stroke="#6d4fb0"/>
+      <text x="32" y="92" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="12" font-weight="700" fill="#1f2937">RILA.map</text>
+      <text x="32" y="107" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="10.5" fill="#4b5563">video → knowledge graph</text>
+    </g>
+
+    <!-- Project 4: YOLOmart -->
+    <g transform="translate(730,150)">
+      <rect x="-14" y="2" width="92" height="66" rx="6" fill="#ffb2b2" stroke="#b03a3a"/>
+      <rect x="-14" y="-10" width="40" height="14" rx="3" fill="#ffb2b2" stroke="#b03a3a"/>
+      <circle cx="46" cy="6" r="13" fill="#e5e7eb" stroke="#6b7280" stroke-width="1.2"/>
+      <path d="M46 -1 l2.4 4.9 5.4 0.8 -3.9 3.8 0.9 5.4 -4.8 -2.6 -4.8 2.6 0.9 -5.4 -3.9 -3.8 5.4 -0.8 z" fill="#ffffff" stroke="#6b7280" stroke-width="0.6"/>
+      <text x="32" y="92" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="12" font-weight="700" fill="#1f2937">YOLOmart.sh</text>
+      <text x="32" y="107" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="10.5" fill="#4b5563">GlitchVerse · 2nd</text>
+    </g>
+
+    <!-- blinking selection cursor hinting "double click to view README" -->
+    <g transform="translate(70,150)">
+      <rect x="-14" y="2" width="92" height="66" rx="6" fill="none" stroke="#2563eb" stroke-width="2" stroke-dasharray="4 3">
+        <animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- status bar -->
+    <line x1="8" y1="386" x2="992" y2="386" stroke="#d6d9e0"/>
+    <text x="24" y="403" font-family="Segoe UI, Tahoma, sans-serif" font-size="11.5" fill="#6b7280">4 object(s)   ·   2 awarded   ·   0% hallucinated</text>
+  </g>
+</svg>
